@@ -1,0 +1,24 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^13.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShouriYang/typescript-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShouriYang/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/ShouriYang/typescript-learning#readme"
+}
